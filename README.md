@@ -4,7 +4,7 @@ Uma aplicação web desenvolvida para facilitar a organização pessoal, o geren
 
 🌐 Acesse o projeto
 
-🔗 Task Manager — Acessar aplicação
+🔗 Task Manager — https://lista-de-tarefas-sczl.onrender.com
 
 📌 Sobre o projeto
 
